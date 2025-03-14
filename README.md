@@ -6,7 +6,7 @@
 This project is a demonstration of a simple **To-do List**, used as an exercise to illustrate the interaction between a [React](https://react.dev/) frontend and a [NestJS](https://nestjs.com/) API. It focuses on the backend side, providing the necessary **API endpoints** to handle **CRUD** operations to manage tasks such as **reading**, **adding**, **updating**, **deleting**, while managing data storage and interacting with the [React frontend](https://github.com/kaelianbaudelet/hdm-todolist-frontend) to provide tasklist.
 
 > [!IMPORTANT]
-> Don’t forget to check out the other repository containing the frontend code, which complements this backend. You can install it directly from [https://github.com/kaelianbaudelet/hdm-todolist-frontend](https://github.com/kaelianbaudelet/hdm-todolist-backend) to run the full application.
+> Don’t forget to check out the other repository containing the frontend code, which complements this backend. You can install it directly from [https://github.com/kaelianbaudelet/hdm-todolist-frontend](https://github.com/kaelianbaudelet/hdm-todolist-frontend) to run the full application.
 
 ## Features
 
