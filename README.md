@@ -72,6 +72,11 @@ This development environment contain:
   docker-compose up -d
   ```
 
+> [!CAUTION]
+> When you run Docker Compose for the first time, you need to perform the database migration with this command:
+> `docker exec -d backend-to-do-list yarn prisma migrate dev --name "init"`
+
+
 1. Open your browser and go to [http://localhost:3000](http://localhost:3000) to see the application in action.
 
 ## License
